@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+}
+.title-winner{
+    text-align: center;
+    padding: 50px;
+} 
+.dicee{
+    width: 130px;
+    display: inline-block;
+    padding: 20px;
+}
+.dicee img{
+    width: 100%;
+    
+}
+/* .dice-container{
+    display: grid;
+    grid-template-rows: 300px 300px;
+    justify-content: center;
+    padding: 50px ;
+} */
+.players-name{
+    text-align: center;
+    padding: 20px;
+}
+.players-name p{
+    display: inline-block;
+    text-align: center;
+    width: fit-content;
+    padding-inline: 50px;
+}
+.Dicees-box{
+    padding-inline: 50px;
+    text-align: center;
+
+}
